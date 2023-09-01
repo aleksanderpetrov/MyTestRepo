@@ -1,2 +1,2 @@
-# MyTestRepo
+# mytestrepo
 test
